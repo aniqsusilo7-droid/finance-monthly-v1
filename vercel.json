@@ -1,0 +1,10 @@
+
+{
+  "version": 2,
+  "name": "aniq-finance-pro",
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "cleanUrls": true
+}
